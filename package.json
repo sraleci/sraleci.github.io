@@ -1,0 +1,24 @@
+{
+  "name": "sraleci.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.3.4",
+    "jquery": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sraleci/sraleci.github.io"
+  },
+  "author": "Laryea Quaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sraleci/sraleci.github.io/issues"
+  },
+  "homepage": "https://github.com/sraleci/sraleci.github.io"
+}
